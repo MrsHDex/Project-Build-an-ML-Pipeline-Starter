@@ -6,6 +6,10 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 
 In this project you will build such a pipeline.
 
+## Submission Links
+* GitHub Repository URL: https://github.com/MrsHDex/Project-Build-an-ML-Pipeline-Starter.git
+* Weights & Biases URL: https://wandb.ai/thompsonac542-western-governors-university/nyc_airbnb
+
 ## Table of contents
 
 - [Preliminary steps](#preliminary-steps)
@@ -38,7 +42,7 @@ and click on `Fork` in the upper right corner. This will create a fork in your G
 repository that is under your control. Now clone the repository locally so you can start working on it:
 
 ```
-git clone https://github.com/[your github username]/Project-Build-an-ML-Pipeline-Starter.git
+git clone https://github.com/MrsHDex/Project-Build-an-ML-Pipeline-Starter.git
 ```
 
 and go into the repository:
